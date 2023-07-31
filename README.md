@@ -59,8 +59,25 @@ Below is the general outline of methods I plan to use:
 * 
 
 
-#### Next steps
-* Perform feature engineering
+#### Feature Engineering
+* Performed feature engineering using
+    * TransactionAmt and card info - created new features for mean, standard Deviation
+      * TransactionAmt_to_mean_card1
+      * TransactionAmt_to_mean_card4
+      * TransactionAmt_to_std_card4
+      * id_02_to_mean_card1
+      * id_02_to_mean_card4
+      * id_02_to_std_card1
+      * id_02_to_std_card4
+      * D15_to_mean_card1
+      * D15_to_mean_card4
+      * D15_to_std_card4
+      * D15_to_mean_addr1
+      * D15_to_mean_addr2
+      * D15_to_std_addr2
+### Models
+* Made use of lightgbm
+  * ![img.png](img.png)
 
 #### Outline of project
 
