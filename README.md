@@ -81,7 +81,7 @@ Below is the general outline of methods I plan to use:
 
 #### Outline of project
 
-- [Link to notebook 1](Fraud%20Detection%20-%20EDA.ipynb)
+- [Link to notebook 1](Fraud%20Detection-EDA%20and%20Model.ipynb)
 
 ##### Contact and Further Information
 Note: 
